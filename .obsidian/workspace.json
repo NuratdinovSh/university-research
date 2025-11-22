@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2a84bc4e4173c98e",
+        "id": "6e188e4cc4ef216a",
         "type": "tabs",
         "children": [
           {
-            "id": "d2457f811083ac7b",
+            "id": "c31f63be64903318",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,8 +177,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2457f811083ac7b",
+  "active": "c31f63be64903318",
   "lastOpenFiles": [
+    "Bul men Parakhatdin.md",
     "hello.md",
     "hi.md",
     "Welcome.md"
